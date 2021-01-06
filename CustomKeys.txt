@@ -1829,18 +1829,18 @@ Hotkey=R
 
 // Black Arrow (Dark Ranger)
 [ANba]
-Hotkey=B
-Researchhotkey=B
+Hotkey=r
+Researchhotkey=r
 
 // Silence (Dark Ranger)
 [ANsi]
-Hotkey=E
-Researchhotkey=E
+Hotkey=w
+Researchhotkey=w
 
 // Life Drain  (Dark Ranger)
 [ANdr]
-Hotkey=D
-Researchhotkey=D
+Hotkey=e
+Researchhotkey=e
 
 // Charm (Dark Ranger)
 [ANch]
