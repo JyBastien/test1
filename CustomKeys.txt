@@ -2,7 +2,7 @@
 //This file includes all racial units, heroes,
 //upgrades, buildings and abilities.  Please consult
 //CustomKeyInfo.txt for information on how to go about
-//using this file for customized hotkey support.?
+//using this file for customized hotkey support.?Human
 //////////////////////////////////////////////////////
 
 
